@@ -13,3 +13,39 @@
  *= require_tree .
  *= require_self
  */
+
+
+body {
+	background-color: #C7E5FF;
+	font-family: 'Oswald', sans-serif;
+	color: #003A6E;
+}
+
+h1 {
+	font-size: 3em;
+	text-align: center;
+	margin-top: 30px;
+	letter-spacing: 5px;
+}
+
+a {
+	color: #3F2EFF;
+}
+
+.posts {
+	font
+}
+
+button {
+	width: 100px;
+	height: 50px;
+	border-radius: 5px;
+	font-size: 1.2em;
+	background-color: #17115E;
+}
+
+button a {
+
+	color: #ffffff;
+	
+}
